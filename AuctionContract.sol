@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >0.8.0;
 
-contract Subasta {
+contract Auctions {
     uint256 public startinglValue;
     uint256 public startDate;
     uint256 public durationTime;
